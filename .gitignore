@@ -1,0 +1,15 @@
+# PDFs and raw dumps
+undl_dump/pdfs/
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# unnecessary folders
+/old
+/lib
+/undl_dump
