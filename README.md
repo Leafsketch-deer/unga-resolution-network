@@ -8,9 +8,3 @@ Resolutions are modeled as nodes and inter-resolution references
 
 ## Data source
 UN Official Document System (ODS)
-
-## Main scripts
-- extract_edges_from_pdfs_pypdf.py
-- analyze_graph_overview.py
-- analyze_recent_trends.py
-- analyze_recent_trends_lineplot.py
